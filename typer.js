@@ -1,4 +1,5 @@
 /* global canvas ctx animation:writable gameLoop label loop paintCircle isIntersectingRectangleWithRectangle generateRandomNumber generateRandomInteger paintParticles createParticles processParticles */
+/* sd */
 let score = 0;
 let lives = 10;
 let caseSensitive = false;
